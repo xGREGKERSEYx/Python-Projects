@@ -28,8 +28,4 @@ Finally, we divided the dataset into two main categories: suspicious and not sus
 
 This step was vital for maintaining the integrity and reliability of the model’s performance during evaluation.
 
-Future Work
-
-
-
 # Work in progress
